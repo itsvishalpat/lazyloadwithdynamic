@@ -42,7 +42,7 @@ yarn dev
 Deploy it to the cloud with [Vercel](https://vercel.com/import?filter=next.js&utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
 
 
-``` For import and install react loading skeleton```
+ For import and install react loading skeleton
 
-npm i react-loading-skeleton
-import Skeleton, { SkeletonTheme } from "react-loading-skeleton";
+```npm i react-loading-skeleton
+import Skeleton, { SkeletonTheme } from "react-loading-skeleton";```
