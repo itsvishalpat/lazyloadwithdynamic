@@ -2,12 +2,6 @@
 
 This examples shows how to dynamically import modules via [`import()`](https://github.com/tc39/proposal-dynamic-import) API
 
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/next.js/tree/canary/examples/with-dynamic-import)
-
 ## How to use
 
 ### Using `create-next-app`
@@ -20,15 +14,6 @@ npx create-next-app --example with-dynamic-import with-dynamic-import-app
 yarn create next-app --example with-dynamic-import with-dynamic-import-app
 ```
 
-### Download manually
-
-Download the example:
-
-```bash
-curl https://codeload.github.com/vercel/next.js/tar.gz/canary | tar -xz --strip=2 next.js-canary/examples/with-dynamic-import
-cd with-dynamic-import
-```
-
 Install it and run:
 
 ```bash
@@ -38,9 +23,6 @@ npm run dev
 yarn
 yarn dev
 ```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/import?filter=next.js&utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
-
 
  For import and install react loading skeleton
 
