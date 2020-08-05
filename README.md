@@ -45,4 +45,5 @@ Deploy it to the cloud with [Vercel](https://vercel.com/import?filter=next.js&ut
  For import and install react loading skeleton
 
 ```npm i react-loading-skeleton
-import Skeleton, { SkeletonTheme } from "react-loading-skeleton";```
+import Skeleton, { SkeletonTheme } from "react-loading-skeleton";
+```
